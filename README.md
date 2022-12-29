@@ -1,11 +1,11 @@
 # Demo app to Start Learning of React.js
 
-this ReactDemo is a Web appication
-this project is only for learning of basic react.js
+this ReactDemo is a Web appication.
+this project is only for learning of basic react.js.
 
 ## Available Scripts
 
-this project contains javascript,HTML,CSS
+this project contains javascript,HTML,CSS.
 
 ## Features
 
