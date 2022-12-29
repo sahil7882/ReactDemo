@@ -8,7 +8,8 @@ this project contains javascript,HTML,CSS
 
 ## Features
 
-this ReactDemo application can use to manipulate text like convert UpperCase,LowerCase, Remove Extra Sapces from text etc.
+this ReactDemo application can manipulate text.
+like convert text to UpperCase,LowerCase and Remove Extra Sapces from text etc.
 
 ### `npm start`
 
