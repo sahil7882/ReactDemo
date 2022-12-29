@@ -1,5 +1,6 @@
 # Demo app to Start Learning of React.js
 
+this ReactDemo is a Web appication
 this project is only for learning of basic react.js
 
 ## Available Scripts
